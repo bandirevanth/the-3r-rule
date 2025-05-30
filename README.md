@@ -1,2 +1,3 @@
 # The 3R Rule
 One of the first websites, made by me...
+The website is very basic, I know. But we've come a long way since :)
